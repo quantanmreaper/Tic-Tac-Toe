@@ -72,7 +72,7 @@ public class Game {
                 row = input.nextInt();
 
                 // The col represents the column number
-                System.out.print("Enter the column number from either 0 or 1 or 2 : ");
+                System.out.print("Enter the columnZ number from either 0 or 1 or 2 : ");
                 col = input.nextInt();
 
                 // check and validate the users input for row and column number
